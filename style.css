@@ -1,0 +1,50 @@
+h2 {
+    font-family: Dancing Script;
+    font-size: 30px;
+    color: cadetblue;
+}
+
+body{
+    font-family: Dancing Script;
+    background-color: antiquewhite;
+}
+
+.header_div{
+    background-color: blanchedalmond;
+}
+
+.header_div p{
+    font-family: Dancing Script;
+    color:cadetblue;
+    letter-spacing: 2px;
+    font-size: 24px;
+    font-weight:lighter
+}
+
+.main_div button{
+    font-family:Dancing Script;
+    margin-top:30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:cadetblue;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(252, 245, 236);
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px grey
+}
+
+h3{
+    color: cadetblue;
+}
+
+h4{
+    color:cadetblue 
+}
